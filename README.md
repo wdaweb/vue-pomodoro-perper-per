@@ -1,4 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/WUr5TOWh)
+
 # 泰山職訓前端班番茄鐘作業
 
 **請將作業上傳到自己的 GitHub 儲存庫**  
@@ -7,9 +8,11 @@
 **繳交未修改的上課範例檔案視同零分**
 
 ## 繳交時間
+
 2025 年 1 月 19 日
 
 ## 基本功能要求
+
 - 使用者能新增、編輯、刪除待辦事項
 - 能保存已完成、未完成的事項
 - 使用者能選擇響鈴鈴聲
@@ -20,6 +23,7 @@
 - 能開始、暫停與跳過倒數
 
 ## 分數分配
+
 |項⽬|分數|
 |:---|:---|
 |能使用 HTML 及 CSS 製作網頁版面設計|10|
@@ -34,8 +38,11 @@
 |能運用 GitHub 網站提供的 GitHub Page 功能來公開展示前端網頁成品|10|
 
 ## 注意
+
 請盡量使用上課教的 GUI 工具或 git 指令繳交作業  
 若使用 GitHub 網頁進行 commit 會依次數扣分
 
 ## 作業連結
-- [GitHub](https://GitHub.com/)
+
+- [GitHub repo](https://github.com/perper-per/pomodoro)
+- [GitHub page](https://perper-per.github.io/pomodoro/)
